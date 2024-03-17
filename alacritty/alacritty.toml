@@ -1,0 +1,19 @@
+[font]
+#  title = "tite"
+#  normal = { family = "Fragment Mono", style = "Regular" }  
+  normal = { family = "JetBrains Mono NF ", style = "Regular" }  
+  size = 8 
+#  normal = { family = "GeistMono Nerd Font", style = "Regular" }  
+#  normal = { family = "Source Code Pro", style = "Regular" }  
+# glyph_offset = { x = 0, y = 2 }
+  # offset = { x = 1, y = 1}
+#  normal = { family = "Terminess Nerd Font Mono", style = "Regular" }  
+#  size = 8
+
+[window]
+   opacity =  0.9
+#  opacity =  1.0
+  decorations = "Full"
+#padding = { x = 20, y = 20 }
+padding = { x = 15, y = 20 }
+#padding = { x = 20, y = 40 }

@@ -1,0 +1,601 @@
+
+2024/03/11 (03:51:43) | ===> btop++ v.1.3.2
+2024/03/11 (03:51:43) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/11 (22:52:57) | ===> btop++ v.1.3.2
+2024/03/11 (22:52:57) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/12 (04:31:30) | ===> btop++ v.1.3.2
+2024/03/12 (04:31:30) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/12 (06:32:06) | ===> btop++ v.1.3.2
+2024/03/12 (06:32:06) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/12 (06:36:52) | ===> btop++ v.1.3.2
+2024/03/12 (06:36:52) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/12 (06:38:16) | ===> btop++ v.1.3.2
+2024/03/12 (06:38:16) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/13 (03:59:46) | ===> btop++ v.1.3.2
+2024/03/13 (03:59:46) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2024/03/13 (04:56:40) | ===> btop++ v.1.3.2
+2024/03/13 (04:56:40) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (04:58:01) | INFO: Logger set to INFO
+2024/03/13 (04:58:03) | INFO: Logger set to INFO
+2024/03/13 (04:58:03) | INFO: Logger set to DEBUG
+2024/03/13 (04:58:04) | INFO: Logger set to DEBUG
+2024/03/13 (04:58:07) | INFO: Logger set to INFO
+2024/03/13 (04:58:07) | INFO: Logger set to DEBUG
+2024/03/13 (04:58:08) | INFO: Logger set to DEBUG
+2024/03/13 (04:58:45) | DEBUG: Writing new config file
+2024/03/13 (04:58:45) | INFO: Quitting! Runtime: 00:02:05
+
+2024/03/13 (04:58:47) | ===> btop++ v.1.3.2
+2024/03/13 (04:58:47) | INFO: Logger set to DEBUG
+2024/03/13 (04:58:47) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (04:58:47) | INFO: Running on /dev/pts/0
+2024/03/13 (04:58:47) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (04:58:47) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (04:58:47) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (04:58:47) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (04:58:47) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (04:59:29) | DEBUG: Writing new config file
+2024/03/13 (04:59:29) | INFO: Quitting! Runtime: 00:00:42
+
+2024/03/13 (04:59:36) | ===> btop++ v.1.3.2
+2024/03/13 (04:59:36) | INFO: Logger set to DEBUG
+2024/03/13 (04:59:36) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (04:59:36) | INFO: Running on /dev/pts/0
+2024/03/13 (04:59:36) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (04:59:36) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (04:59:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (04:59:36) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (04:59:36) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (05:18:40) | DEBUG: Writing new config file
+2024/03/13 (05:18:40) | INFO: Quitting! Runtime: 00:19:04
+
+2024/03/13 (05:18:42) | ===> btop++ v.1.3.2
+2024/03/13 (05:18:42) | INFO: Logger set to DEBUG
+2024/03/13 (05:18:42) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (05:18:42) | INFO: Running on /dev/pts/0
+2024/03/13 (05:18:42) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (05:18:42) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (05:18:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (05:18:42) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (05:18:42) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (05:19:12) | DEBUG: Writing new config file
+2024/03/13 (05:19:12) | INFO: Quitting! Runtime: 00:00:30
+
+2024/03/13 (05:19:13) | ===> btop++ v.1.3.2
+2024/03/13 (05:19:13) | INFO: Logger set to DEBUG
+2024/03/13 (05:19:13) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (05:19:13) | INFO: Running on /dev/pts/0
+2024/03/13 (05:19:13) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (05:19:13) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (05:19:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (05:19:13) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (05:19:13) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (05:21:39) | DEBUG: Writing new config file
+2024/03/13 (05:21:39) | INFO: Quitting! Runtime: 00:02:26
+
+2024/03/13 (05:22:39) | ===> btop++ v.1.3.2
+2024/03/13 (05:22:39) | INFO: Logger set to DEBUG
+2024/03/13 (05:22:39) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (05:22:39) | INFO: Running on /dev/pts/0
+2024/03/13 (05:22:39) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (05:22:39) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (05:22:39) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (05:22:39) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (05:22:39) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (05:41:31) | DEBUG: Writing new config file
+2024/03/13 (05:41:31) | INFO: Quitting! Runtime: 00:18:52
+
+2024/03/13 (05:56:38) | ===> btop++ v.1.3.2
+2024/03/13 (05:56:38) | INFO: Logger set to DEBUG
+2024/03/13 (05:56:38) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (05:56:38) | INFO: Running on /dev/pts/1
+2024/03/13 (05:56:38) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (05:56:38) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (05:56:38) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (05:56:38) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (05:56:38) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (07:06:36) | INFO: Quitting! Runtime: 01:09:58
+
+2024/03/13 (07:32:12) | ===> btop++ v.1.3.2
+2024/03/13 (07:32:12) | INFO: Logger set to DEBUG
+2024/03/13 (07:32:12) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (07:32:12) | INFO: Running on /dev/pts/1
+2024/03/13 (07:32:12) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (07:32:12) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (07:32:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (07:32:12) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (07:32:12) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (07:33:03) | DEBUG: Writing new config file
+2024/03/13 (07:33:03) | INFO: Quitting! Runtime: 00:00:51
+
+2024/03/13 (11:35:34) | ===> btop++ v.1.3.2
+2024/03/13 (11:35:34) | INFO: Logger set to DEBUG
+2024/03/13 (11:35:34) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (11:35:34) | INFO: Running on /dev/pts/0
+2024/03/13 (11:35:34) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (11:35:34) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (11:35:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (11:35:34) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (11:35:34) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:36:35) | DEBUG: Loading theme file: /usr/share/btop/themes/whiteout.theme
+2024/03/13 (11:36:36) | DEBUG: Loading theme file: /usr/share/btop/themes/solarized_dark.theme
+2024/03/13 (11:36:37) | DEBUG: Loading theme file: /usr/share/btop/themes/paper.theme
+2024/03/13 (11:36:39) | DEBUG: Loading theme file: /usr/share/btop/themes/dusklight.theme
+2024/03/13 (11:36:40) | DEBUG: Loading theme file: /usr/share/btop/themes/elementarish.theme
+2024/03/13 (11:36:40) | DEBUG: Loading theme file: /usr/share/btop/themes/solarized_light.theme
+2024/03/13 (11:36:41) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-night.theme
+2024/03/13 (11:36:42) | DEBUG: Loading theme file: /usr/share/btop/themes/night-owl.theme
+2024/03/13 (11:36:43) | DEBUG: Loading theme file: /usr/share/btop/themes/flat-remix-light.theme
+2024/03/13 (11:36:45) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-storm.theme
+2024/03/13 (11:36:47) | DEBUG: Loading theme file: /usr/share/btop/themes/kyli0x.theme
+2024/03/13 (11:36:48) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-storm.theme
+2024/03/13 (11:36:48) | DEBUG: Loading theme file: /usr/share/btop/themes/kyli0x.theme
+2024/03/13 (11:36:49) | DEBUG: Loading theme file: /usr/share/btop/themes/nord.theme
+2024/03/13 (11:36:49) | DEBUG: Loading theme file: /usr/share/btop/themes/everforest-dark-hard.theme
+2024/03/13 (11:36:50) | DEBUG: Loading theme file: /usr/share/btop/themes/everforest-dark-medium.theme
+2024/03/13 (11:36:50) | DEBUG: Loading theme file: /usr/share/btop/themes/monokai.theme
+2024/03/13 (11:36:51) | DEBUG: Loading theme file: /usr/share/btop/themes/everforest-dark-medium.theme
+2024/03/13 (11:36:51) | DEBUG: Loading theme file: /usr/share/btop/themes/monokai.theme
+2024/03/13 (11:36:52) | DEBUG: Loading theme file: /usr/share/btop/themes/matcha-dark-sea.theme
+2024/03/13 (11:36:52) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+2024/03/13 (11:36:53) | DEBUG: Loading theme file: /usr/share/btop/themes/adapta.theme
+2024/03/13 (11:36:53) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+2024/03/13 (11:36:53) | DEBUG: Loading theme file: /usr/share/btop/themes/matcha-dark-sea.theme
+2024/03/13 (11:36:54) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+2024/03/13 (11:36:54) | DEBUG: Loading theme file: /usr/share/btop/themes/adapta.theme
+2024/03/13 (11:36:55) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+2024/03/13 (11:36:56) | DEBUG: Loading theme file: /usr/share/btop/themes/adapta.theme
+2024/03/13 (11:36:57) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+2024/03/13 (11:36:58) | DEBUG: Loading theme file: /usr/share/btop/themes/adapta.theme
+2024/03/13 (11:36:58) | DEBUG: Loading theme file: /usr/share/btop/themes/greyscale.theme
+2024/03/13 (11:36:58) | DEBUG: Loading theme file: /usr/share/btop/themes/adapta.theme
+2024/03/13 (11:37:00) | DEBUG: Loading theme file: /usr/share/btop/themes/greyscale.theme
+2024/03/13 (11:37:00) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark_v2.theme
+2024/03/13 (11:37:00) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark.theme
+2024/03/13 (11:37:01) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark_v2.theme
+2024/03/13 (11:37:04) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark.theme
+2024/03/13 (11:37:04) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark_v2.theme
+2024/03/13 (11:37:04) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark.theme
+2024/03/13 (11:37:04) | DEBUG: Loading theme file: /usr/share/btop/themes/tomorrow-night.theme
+2024/03/13 (11:37:06) | DEBUG: Loading theme file: /usr/share/btop/themes/adwaita.theme
+2024/03/13 (11:37:07) | DEBUG: Loading theme file: /usr/share/btop/themes/tomorrow-night.theme
+2024/03/13 (11:37:07) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_dark.theme
+2024/03/13 (11:37:08) | DEBUG: Loading theme file: /usr/share/btop/themes/tomorrow-night.theme
+2024/03/13 (11:37:08) | DEBUG: Loading theme file: /usr/share/btop/themes/adwaita.theme
+2024/03/13 (11:37:08) | DEBUG: Loading theme file: /usr/share/btop/themes/horizon.theme
+2024/03/13 (11:37:09) | DEBUG: Loading theme file: /usr/share/btop/themes/adwaita.theme
+2024/03/13 (11:37:09) | DEBUG: Loading theme file: /usr/share/btop/themes/horizon.theme
+2024/03/13 (11:37:12) | DEBUG: Loading theme file: /usr/share/btop/themes/horizon.theme
+2024/03/13 (11:37:13) | DEBUG: Loading theme file: /usr/share/btop/themes/horizon.theme
+2024/03/13 (11:37:15) | DEBUG: Loading theme file: /usr/share/btop/themes/horizon.theme
+2024/03/13 (11:37:18) | DEBUG: Loading theme file: /usr/share/btop/themes/horizon.theme
+2024/03/13 (11:37:19) | DEBUG: Loading theme file: /usr/share/btop/themes/flat-remix.theme
+2024/03/13 (11:37:36) | DEBUG: Loading theme file: /usr/share/btop/themes/dracula.theme
+2024/03/13 (11:37:37) | DEBUG: Loading theme file: /usr/share/btop/themes/gruvbox_material_dark.theme
+2024/03/13 (11:38:03) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/03/13 (11:38:04) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:04) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/03/13 (11:38:04) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:05) | DEBUG: Loading theme file: /usr/share/btop/themes/whiteout.theme
+2024/03/13 (11:38:06) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:07) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:08) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:08) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:09) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (11:38:10) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+
+2024/03/13 (19:55:02) | ===> btop++ v.1.3.2
+2024/03/13 (19:55:02) | INFO: Logger set to DEBUG
+2024/03/13 (19:55:02) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (19:55:02) | INFO: Running on /dev/pts/1
+2024/03/13 (19:55:02) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (19:55:02) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (19:55:02) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (19:55:02) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (19:55:02) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:24) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:26) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:27) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:28) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:28) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:29) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:29) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:00:30) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:01:00) | INFO: Logger set to DEBUG
+2024/03/13 (20:01:01) | INFO: Logger set to INFO
+2024/03/13 (20:01:01) | INFO: Logger set to DEBUG
+2024/03/13 (20:01:02) | INFO: Logger set to INFO
+2024/03/13 (20:01:02) | INFO: Logger set to INFO
+2024/03/13 (20:01:02) | INFO: Logger set to DEBUG
+2024/03/13 (20:01:07) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:01:08) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:01:12) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:06:09) | DEBUG: Writing new config file
+2024/03/13 (20:06:09) | INFO: Quitting! Runtime: 00:11:07
+
+2024/03/13 (20:09:28) | ===> btop++ v.1.3.2
+2024/03/13 (20:09:28) | INFO: Logger set to DEBUG
+2024/03/13 (20:09:28) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (20:09:28) | INFO: Running on /dev/pts/3
+2024/03/13 (20:09:28) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (20:09:28) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (20:09:28) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (20:09:28) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (20:09:28) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (20:09:53) | INFO: Quitting! Runtime: 00:00:25
+
+2024/03/13 (22:54:10) | ===> btop++ v.1.3.2
+2024/03/13 (22:54:10) | INFO: Logger set to DEBUG
+2024/03/13 (22:54:10) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (22:54:10) | INFO: Running on /dev/pts/0
+2024/03/13 (22:54:10) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (22:54:10) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (22:54:10) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (22:54:10) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (22:54:10) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (23:05:23) | INFO: Quitting! Runtime: 00:11:13
+
+2024/03/13 (23:07:00) | ===> btop++ v.1.3.2
+2024/03/13 (23:07:00) | INFO: Logger set to DEBUG
+2024/03/13 (23:07:00) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (23:07:00) | INFO: Running on /dev/pts/1
+2024/03/13 (23:07:00) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (23:07:00) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (23:07:00) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (23:07:00) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (23:07:00) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (23:07:57) | DEBUG: Writing new config file
+2024/03/13 (23:07:57) | INFO: Quitting! Runtime: 00:00:57
+
+2024/03/13 (16:54:17) | ===> btop++ v.1.3.2
+2024/03/13 (16:54:17) | INFO: Logger set to DEBUG
+2024/03/13 (16:54:17) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (16:54:17) | INFO: Running on /dev/pts/0
+2024/03/13 (16:54:17) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (16:54:17) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (16:54:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (16:54:17) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (16:54:17) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (16:57:37) | INFO: Quitting! Runtime: 00:03:20
+
+2024/03/13 (17:21:25) | ===> btop++ v.1.3.2
+2024/03/13 (17:21:25) | INFO: Logger set to DEBUG
+2024/03/13 (17:21:25) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (17:21:25) | INFO: Running on /dev/pts/0
+2024/03/13 (17:21:25) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (17:21:25) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (17:21:25) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (17:21:25) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (17:21:25) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (17:21:28) | INFO: Quitting! Runtime: 00:00:03
+
+2024/03/13 (19:17:01) | ===> btop++ v.1.3.2
+2024/03/13 (19:17:01) | INFO: Logger set to DEBUG
+2024/03/13 (19:17:01) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (19:17:01) | INFO: Running on /dev/pts/1
+2024/03/13 (19:17:01) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (19:17:01) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (19:17:01) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (19:17:01) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (19:17:01) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (19:17:21) | INFO: Quitting! Runtime: 00:00:20
+
+2024/03/13 (21:56:35) | ===> btop++ v.1.3.2
+2024/03/13 (21:56:35) | INFO: Logger set to DEBUG
+2024/03/13 (21:56:35) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (21:56:35) | INFO: Running on /dev/pts/1
+2024/03/13 (21:56:35) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (21:56:35) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (21:56:35) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (21:56:35) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (21:56:35) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/13 (21:56:43) | INFO: Quitting! Runtime: 00:00:08
+
+2024/03/13 (22:40:37) | ===> btop++ v.1.3.2
+2024/03/13 (22:40:37) | INFO: Logger set to DEBUG
+2024/03/13 (22:40:37) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/13 (22:40:37) | INFO: Running on /dev/pts/1
+2024/03/13 (22:40:37) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/13 (22:40:37) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/13 (22:40:37) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/13 (22:40:37) | DEBUG: Shared::init() : Initialized.
+2024/03/13 (22:40:37) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+
+2024/03/14 (22:11:37) | ===> btop++ v.1.3.2
+2024/03/14 (22:11:37) | INFO: Logger set to DEBUG
+2024/03/14 (22:11:37) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/14 (22:11:37) | INFO: Running on /dev/pts/2
+2024/03/14 (22:11:37) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/14 (22:11:37) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/14 (22:11:37) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/14 (22:11:37) | DEBUG: Shared::init() : Initialized.
+2024/03/14 (22:11:37) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/14 (22:11:44) | INFO: Quitting! Runtime: 00:00:07
+
+2024/03/15 (04:51:13) | ===> btop++ v.1.3.2
+2024/03/15 (04:51:13) | INFO: Logger set to DEBUG
+2024/03/15 (04:51:13) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (04:51:13) | INFO: Running on /dev/pts/3
+2024/03/15 (04:51:13) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (04:51:13) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (04:51:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (04:51:13) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (04:51:13) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (05:20:17) | INFO: Quitting! Runtime: 00:29:04
+
+2024/03/15 (05:51:01) | ===> btop++ v.1.3.2
+2024/03/15 (05:51:01) | INFO: Logger set to DEBUG
+2024/03/15 (05:51:01) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (05:51:01) | INFO: Running on /dev/pts/1
+2024/03/15 (05:51:01) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (05:51:01) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (05:51:01) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (05:51:01) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (05:51:01) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (06:01:14) | INFO: Quitting! Runtime: 00:10:13
+
+2024/03/15 (06:01:15) | ===> btop++ v.1.3.2
+2024/03/15 (06:01:15) | INFO: Logger set to DEBUG
+2024/03/15 (06:01:15) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (06:01:15) | INFO: Running on /dev/pts/1
+2024/03/15 (06:01:15) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (06:01:15) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (06:01:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (06:01:15) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (06:01:15) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (06:01:32) | INFO: Quitting! Runtime: 00:00:17
+
+2024/03/15 (06:01:52) | ===> btop++ v.1.3.2
+2024/03/15 (06:01:52) | INFO: Logger set to DEBUG
+2024/03/15 (06:01:52) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (06:01:52) | INFO: Running on /dev/pts/0
+2024/03/15 (06:01:52) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (06:01:52) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (06:01:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (06:01:52) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (06:01:52) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (06:02:26) | INFO: Quitting! Runtime: 00:00:34
+
+2024/03/15 (06:08:18) | ===> btop++ v.1.3.2
+2024/03/15 (06:08:18) | INFO: Logger set to DEBUG
+2024/03/15 (06:08:18) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (06:08:18) | INFO: Running on /dev/pts/3
+2024/03/15 (06:08:18) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (06:08:18) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (06:08:18) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (06:08:18) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (06:08:18) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (06:12:14) | INFO: Quitting! Runtime: 00:03:56
+
+2024/03/15 (06:12:58) | ===> btop++ v.1.3.2
+2024/03/15 (06:12:58) | INFO: Logger set to DEBUG
+2024/03/15 (06:12:58) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (06:12:58) | INFO: Running on /dev/pts/0
+2024/03/15 (06:12:58) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (06:12:58) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (06:12:58) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (06:12:58) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (06:12:58) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (06:14:43) | INFO: Quitting! Runtime: 00:01:45
+
+2024/03/15 (06:22:34) | ===> btop++ v.1.3.2
+2024/03/15 (06:22:34) | INFO: Logger set to DEBUG
+2024/03/15 (06:22:34) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (06:22:34) | INFO: Running on /dev/pts/0
+2024/03/15 (06:22:34) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (06:22:34) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (06:22:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (06:22:34) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (06:22:34) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (06:24:23) | INFO: Quitting! Runtime: 00:01:49
+
+2024/03/15 (06:47:13) | ===> btop++ v.1.3.2
+2024/03/15 (06:47:13) | INFO: Logger set to DEBUG
+2024/03/15 (06:47:13) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (06:47:13) | INFO: Running on /dev/pts/2
+2024/03/15 (06:47:13) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (06:47:13) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (06:47:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (06:47:13) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (06:47:13) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (07:14:31) | DEBUG: Writing new config file
+2024/03/15 (07:14:31) | INFO: Quitting! Runtime: 00:27:18
+
+2024/03/15 (07:45:01) | ===> btop++ v.1.3.2
+2024/03/15 (07:45:01) | INFO: Logger set to DEBUG
+2024/03/15 (07:45:01) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (07:45:01) | INFO: Running on /dev/pts/1
+2024/03/15 (07:45:01) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (07:45:01) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (07:45:01) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (07:45:01) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (07:45:01) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (07:45:33) | INFO: Quitting! Runtime: 00:00:32
+
+2024/03/15 (09:57:58) | ===> btop++ v.1.3.2
+2024/03/15 (09:57:58) | INFO: Logger set to DEBUG
+2024/03/15 (09:57:58) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (09:57:58) | INFO: Running on /dev/pts/0
+2024/03/15 (09:57:58) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (09:57:58) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (09:57:58) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (09:57:58) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (09:57:58) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (09:59:50) | INFO: Quitting! Runtime: 00:01:52
+
+2024/03/15 (10:38:42) | ===> btop++ v.1.3.2
+2024/03/15 (10:38:42) | INFO: Logger set to DEBUG
+2024/03/15 (10:38:42) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (10:38:42) | INFO: Running on /dev/pts/1
+2024/03/15 (10:38:42) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (10:38:42) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (10:38:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (10:38:42) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (10:38:42) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (10:38:52) | INFO: Quitting! Runtime: 00:00:10
+
+2024/03/15 (10:48:11) | ===> btop++ v.1.3.2
+2024/03/15 (10:48:11) | INFO: Logger set to DEBUG
+2024/03/15 (10:48:11) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (10:48:11) | INFO: Running on /dev/pts/0
+2024/03/15 (10:48:11) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (10:48:11) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (10:48:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (10:48:11) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (10:48:11) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (10:52:13) | INFO: Quitting! Runtime: 00:04:02
+
+2024/03/15 (22:30:14) | ===> btop++ v.1.3.2
+2024/03/15 (22:30:14) | INFO: Logger set to DEBUG
+2024/03/15 (22:30:15) | DEBUG: Setting LC_ALL=en_PH.UTF-8
+2024/03/15 (22:30:15) | INFO: Running on /dev/pts/1
+2024/03/15 (22:30:15) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (22:30:15) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (22:30:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (22:30:15) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (22:30:15) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (22:30:36) | INFO: Quitting! Runtime: 00:00:22
+
+2024/03/16 (00:49:52) | ===> btop++ v.1.3.2
+2024/03/16 (00:49:52) | INFO: Logger set to DEBUG
+2024/03/16 (00:49:52) | WARNING: Failed to set locale en_PH.UTF-8 continuing anyway.
+2024/03/16 (00:49:52) | INFO: Running on /dev/pts/3
+2024/03/16 (00:49:52) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/16 (00:49:52) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/16 (00:49:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/16 (00:49:52) | DEBUG: Shared::init() : Initialized.
+2024/03/16 (00:49:52) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/16 (01:10:02) | DEBUG: Writing new config file
+2024/03/16 (01:10:02) | INFO: Quitting! Runtime: 00:20:10
+
+2024/03/16 (03:57:10) | ===> btop++ v.1.3.2
+2024/03/16 (03:57:10) | INFO: Logger set to DEBUG
+2024/03/16 (03:57:10) | DEBUG: Setting LC_ALL=en_US.UTF-8
+2024/03/16 (03:57:10) | INFO: Running on /dev/pts/0
+2024/03/16 (03:57:10) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/16 (03:57:10) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/16 (03:57:10) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/16 (03:57:10) | DEBUG: Shared::init() : Initialized.
+2024/03/16 (03:57:10) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/16 (03:57:21) | INFO: Quitting! Runtime: 00:00:11
+
+2024/03/15 (20:34:44) | ===> btop++ v.1.3.2
+2024/03/15 (20:34:44) | INFO: Logger set to DEBUG
+2024/03/15 (20:34:44) | DEBUG: Using locale en_US.UTF-8
+2024/03/15 (20:34:44) | INFO: Running on /dev/pts/0
+2024/03/15 (20:34:44) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (20:34:44) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (20:34:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (20:34:44) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (20:34:44) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (20:35:53) | INFO: Quitting! Runtime: 00:01:10
+
+2024/03/15 (21:42:11) | ===> btop++ v.1.3.2
+2024/03/15 (21:42:11) | INFO: Logger set to DEBUG
+2024/03/15 (21:42:11) | DEBUG: Using locale en_US.UTF-8
+2024/03/15 (21:42:11) | INFO: Running on /dev/pts/2
+2024/03/15 (21:42:11) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/15 (21:42:11) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/15 (21:42:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/15 (21:42:11) | DEBUG: Shared::init() : Initialized.
+2024/03/15 (21:42:11) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/15 (21:44:16) | INFO: Quitting! Runtime: 00:02:05
+
+2024/03/16 (01:45:47) | ===> btop++ v.1.3.2
+2024/03/16 (01:45:47) | INFO: Logger set to DEBUG
+2024/03/16 (01:45:47) | DEBUG: Using locale en_US.UTF-8
+2024/03/16 (01:45:47) | INFO: Running on /dev/pts/0
+2024/03/16 (01:45:47) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/16 (01:45:47) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/16 (01:45:47) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/16 (01:45:47) | DEBUG: Shared::init() : Initialized.
+2024/03/16 (01:45:47) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+
+2024/03/16 (15:38:50) | ===> btop++ v.1.3.2
+2024/03/16 (15:38:50) | INFO: Logger set to DEBUG
+2024/03/16 (15:38:50) | DEBUG: Using locale en_US.UTF-8
+2024/03/16 (15:38:50) | INFO: Running on /dev/pts/0
+2024/03/16 (15:38:50) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/16 (15:38:50) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/16 (15:38:50) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/16 (15:38:50) | DEBUG: Shared::init() : Initialized.
+2024/03/16 (15:38:50) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/16 (15:38:59) | INFO: Quitting! Runtime: 00:00:09
+
+2024/03/16 (21:48:36) | ===> btop++ v.1.3.2
+2024/03/16 (21:48:36) | INFO: Logger set to DEBUG
+2024/03/16 (21:48:36) | DEBUG: Using locale en_US.UTF-8
+2024/03/16 (21:48:36) | INFO: Running on /dev/pts/1
+2024/03/16 (21:48:36) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/16 (21:48:36) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/16 (21:48:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/16 (21:48:36) | DEBUG: Shared::init() : Initialized.
+2024/03/16 (21:48:36) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/16 (21:49:05) | INFO: Quitting! Runtime: 00:00:29
+
+2024/03/16 (22:50:21) | ===> btop++ v.1.3.2
+2024/03/16 (22:50:21) | INFO: Logger set to DEBUG
+2024/03/16 (22:50:21) | DEBUG: Using locale en_US.UTF-8
+2024/03/16 (22:50:21) | INFO: Running on /dev/pts/1
+2024/03/16 (22:50:21) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/16 (22:50:21) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/16 (22:50:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/16 (22:50:21) | DEBUG: Shared::init() : Initialized.
+2024/03/16 (22:50:21) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/16 (22:50:22) | INFO: Quitting! Runtime: 00:00:01
+
+2024/03/17 (15:40:32) | ===> btop++ v.1.3.2
+2024/03/17 (15:40:32) | INFO: Logger set to DEBUG
+2024/03/17 (15:40:32) | DEBUG: Using locale en_US.UTF-8
+2024/03/17 (15:40:32) | INFO: Running on /dev/pts/0
+2024/03/17 (15:40:32) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/17 (15:40:32) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/17 (15:40:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/17 (15:40:32) | DEBUG: Shared::init() : Initialized.
+2024/03/17 (15:40:32) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/17 (15:40:57) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/03/17 (15:40:58) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/17 (15:40:58) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/03/17 (15:41:07) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/17 (15:41:07) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/03/17 (15:41:24) | DEBUG: Writing new config file
+2024/03/17 (15:41:24) | INFO: Quitting! Runtime: 00:00:52
+
+2024/03/17 (16:40:44) | ===> btop++ v.1.3.2
+2024/03/17 (16:40:44) | INFO: Logger set to DEBUG
+2024/03/17 (16:40:44) | DEBUG: Using locale en_US.UTF-8
+2024/03/17 (16:40:44) | INFO: Running on /dev/pts/3
+2024/03/17 (16:40:44) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/17 (16:40:44) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/17 (16:40:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/17 (16:40:44) | DEBUG: Shared::init() : Initialized.
+
+2024/03/17 (18:29:43) | ===> btop++ v.1.3.2
+2024/03/17 (18:29:43) | INFO: Logger set to DEBUG
+2024/03/17 (18:29:43) | DEBUG: Using locale en_US.UTF-8
+2024/03/17 (18:29:43) | INFO: Running on /dev/pts/3
+2024/03/17 (18:29:43) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2024/03/17 (18:29:43) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/17 (18:29:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/17 (18:29:43) | DEBUG: Shared::init() : Initialized.
+2024/03/17 (19:01:10) | DEBUG: Loading theme file: /usr/share/btop/themes/onedark.theme
+2024/03/17 (19:01:20) | DEBUG: Loading theme file: /usr/share/btop/themes/ayu.theme
+2024/03/17 (19:01:25) | DEBUG: Loading theme file: /usr/share/btop/themes/whiteout.theme
+2024/03/17 (19:01:29) | DEBUG: Loading theme file: /usr/share/btop/themes/solarized_dark.theme
+2024/03/17 (19:01:30) | DEBUG: Loading theme file: /usr/share/btop/themes/paper.theme
+2024/03/17 (19:01:36) | DEBUG: Loading theme file: /usr/share/btop/themes/dusklight.theme
+2024/03/17 (19:01:37) | DEBUG: Loading theme file: /usr/share/btop/themes/elementarish.theme
+2024/03/17 (19:01:41) | DEBUG: Loading theme file: /usr/share/btop/themes/solarized_light.theme
+2024/03/17 (19:01:44) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-night.theme
+2024/03/17 (19:01:57) | DEBUG: Loading theme file: /usr/share/btop/themes/night-owl.theme
+2024/03/17 (19:02:01) | DEBUG: Loading theme file: /usr/share/btop/themes/flat-remix-light.theme
+2024/03/17 (19:02:03) | DEBUG: Loading theme file: /usr/share/btop/themes/tokyo-storm.theme
+2024/03/17 (19:02:06) | DEBUG: Loading theme file: /usr/share/btop/themes/kyli0x.theme
+2024/03/17 (19:02:10) | DEBUG: Loading theme file: /usr/share/btop/themes/nord.theme

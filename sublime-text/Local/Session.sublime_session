@@ -1,0 +1,997 @@
+{
+	"file_history":
+	[
+		"/home/d4r10/.config/example.picom.conf",
+		"/home/d4r10/.config/EOS-greeter.conf",
+		"/home/d4r10/.config/config",
+		"/home/d4r10/.config/sublime-text/Packages/ayu/ayu-dark.sublime-color-scheme",
+		"/home/d4r10/.zshrc",
+		"/home/d4r10/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/d4r10/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/d4r10/.config/sublime-text/Packages/User/ayu-dark.sublime-color-scheme",
+		"/home/d4r10/.config/sublime-text/Packages/Guna/themes/Guna.sublime-theme",
+		"/home/d4r10/.config/sublime-text/Packages/User/Guna.sublime-theme",
+		"/home/d4r10/.config/sublime-text/Packages/Guna/themes/preset/Guna-dark.sublime-settings",
+		"/home/d4r10/.config/sublime-text/Packages/User/Guna-dark.sublime-settings",
+		"/home/d4r10/.profile",
+		"/home/d4r10/config"
+	],
+	"folder_history":
+	[
+		"/home/d4r10"
+	],
+	"last_version": 4169,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"next_update_check": 1710619352,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 694.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			687.0,
+			91.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"custom",
+						"UI: Customize Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Enable Autorefresh"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"colorsc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colorsche",
+						"UI: Select Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/d4r10/.config/tmux/.tmux.conf",
+				"/home/d4r10/.config/i3/config",
+				"/home/d4r10/.config/EOS-greeter.conf",
+				"/home/d4r10/.config/config",
+				"/home/d4r10/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/d4r10/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/d4r10/.zshrc",
+				"/home/d4r10/.config/sublime-text/Packages/ayu/ayu-dark.sublime-color-scheme",
+				"/home/d4r10/.config/sublime-text/Packages/User/ayu-dark.sublime-color-scheme",
+				"/home/d4r10/.config/sublime-text/Packages/Guna/themes/preset/Guna-dark.sublime-settings",
+				"/home/d4r10/.config/sublime-text/Packages/User/Guna-dark.sublime-settings",
+				"/home/d4r10/.profile",
+				"/home/d4r10/config"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i3/con",
+						".config/i3/config"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 669.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/d4r10/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 23020,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							69,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"insert",
+										{
+											"characters": "#"
+										}
+									],
+									[
+										"exit_insert_mode",
+										null
+									]
+								]
+							},
+							"AQAAAIVXAAAAAAAAhlcAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIVXAAAAAAAAhVcAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							156,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": false
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": false
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"move",
+										{
+											"by": "lines",
+											"forward": true
+										}
+									],
+									[
+										"move",
+										{
+											"by": "characters",
+											"forward": true
+										}
+									],
+									[
+										"left_delete",
+										null
+									]
+								]
+							},
+							"EwAAANlQAAAAAAAA2VAAAAAAAAABAAAAI+BQAAAAAAAA4FAAAAAAAAABAAAAIwJRAAAAAAAAAlEAAAAAAAABAAAAIztRAAAAAAAAO1EAAAAAAAABAAAAI19RAAAAAAAAX1EAAAAAAAABAAAAI25RAAAAAAAAblEAAAAAAAABAAAAI39RAAAAAAAAf1EAAAAAAAABAAAAIz5SAAAAAAAAPlIAAAAAAAABAAAAIz9SAAAAAAAAP1IAAAAAAAABAAAAI0lSAAAAAAAASVIAAAAAAAABAAAAI2ZSAAAAAAAAZlIAAAAAAAABAAAAI4pSAAAAAAAAilIAAAAAAAABAAAAI61SAAAAAAAArVIAAAAAAAABAAAAI81SAAAAAAAAzVIAAAAAAAABAAAAIw1TAAAAAAAADVMAAAAAAAABAAAAI0pTAAAAAAAASlMAAAAAAAABAAAAI4dTAAAAAAAAh1MAAAAAAAABAAAAI8BTAAAAAAAAwFMAAAAAAAABAAAAI8NTAAAAAAAAw1MAAAAAAAABAAAAIw",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANpQAAAAAAAA2lAAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				},
+				{
+					"contents": "# Enable mouse mode\nset-option -g default-terminal \"screen-256color\"\nset -g mouse on\n",
+					"file": "/home/d4r10/.config/tmux/.tmux.conf",
+					"file_size": 85,
+					"file_write_time": 133550067298718996,
+					"settings":
+					{
+						"buffer_size": 85,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "jjj"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							3,
+							"left_delete",
+							null,
+							"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAagEAAAAAAAAAAQAAAAAAAAABAAAAagAAAAAAAAAAAAAAAAAAAAABAAAAag",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "q"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAcQ",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"custom",
+						"UI: Customize Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Enable Autorefresh"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"colorsc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colorsche",
+						"UI: Select Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/d4r10"
+			],
+			"file_history":
+			[
+				"/home/d4r10/.config/EOS-greeter.conf",
+				"/home/d4r10/.config/config",
+				"/home/d4r10/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/d4r10/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/d4r10/.zshrc",
+				"/home/d4r10/.config/sublime-text/Packages/ayu/ayu-dark.sublime-color-scheme",
+				"/home/d4r10/.config/sublime-text/Packages/User/ayu-dark.sublime-color-scheme",
+				"/home/d4r10/.config/sublime-text/Packages/Guna/themes/preset/Guna-dark.sublime-settings",
+				"/home/d4r10/.config/sublime-text/Packages/User/Guna-dark.sublime-settings",
+				"/home/d4r10/.profile",
+				"/home/d4r10/config"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/d4r10"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/d4r10/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23020,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (INI).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10906.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/d4r10/.config/tmux/.tmux.conf",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 85,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (INI).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,686,63,1355,757,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i3/con",
+						".config/i3/config"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
