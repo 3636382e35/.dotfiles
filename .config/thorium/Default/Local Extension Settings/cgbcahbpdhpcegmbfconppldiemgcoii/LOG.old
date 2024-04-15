@@ -1,0 +1,8 @@
+2024/04/03-03:31:25.441 2f4aa Creating DB /home/noodlesoup/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii since it was missing.
+2024/04/03-03:31:25.658 2f4aa Reusing MANIFEST /home/noodlesoup/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/04/03-03:31:38.142 2f4ad Level-0 table #5: started
+2024/04/03-03:31:38.296 2f4ad Level-0 table #5: 4101573 bytes OK
+2024/04/03-03:31:38.345 2f4ad Delete type=0 #3
+2024/04/03-03:32:32.606 2f4d9 Level-0 table #7: started
+2024/04/03-03:32:32.789 2f4d9 Level-0 table #7: 5378135 bytes OK
+2024/04/03-03:32:32.833 2f4d9 Delete type=0 #4
