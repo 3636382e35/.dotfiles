@@ -1,0 +1,38 @@
+import = [
+  "~/.config/alacritty/themes/catpuccin-mocha.toml"
+]
+shell = "zsh"
+[font]
+# normal = { family = "Fragment Mono", style = "Regular" }  
+# normal = { family = "KlartextMono", style = "Medium" }  
+# size = 8
+normal = { family = "JetBrainsMonoNL NFM", style = "Regular" }  
+size = 7.5
+# normal = { family = "0xProto Nerd Font", style = "Regular" }  
+# normal = { family = "MartianMono NFM", style = "Condensed Regular" }  
+# size = 7.2
+# normal = { family = "Iosevka Nerd Font", style = "Regular" }  
+
+# normal = { family = "Noto Sans Mono", style = "Condensed Regular" }  
+# size = 7.5
+# offset = { x = 0, y = 0}
+
+# normal = { family = "GeistMono Nerd Font", style = "Medium" }  
+# normal = { family = "Terminess Nerd Font Mono", style = "Bold" }  
+# size = 8.5
+# offset = { x = 0, y = -3}
+# normal = { family = "Source Code Pro", style = "Condensed Regular" }  
+# size = 7 
+# size = 7.8
+# glyph_offset = { x = 0, y = 3 }
+  
+# size = 9.5
+
+[window]
+  opacity =  0.95
+ # opacity =  1.0
+  decorations = "Full"
+#padding = { x = 20, y = 20 }
+padding = { x = 15, y = 20 } #for Martian
+# padding = { x = 20, y = 40 }
+
