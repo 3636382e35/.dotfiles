@@ -1,0 +1,10 @@
+auto-cpufreq
+autotiling
+bumblebee-status
+cava
+lightdm-settings
+mechvibes
+python-pywalfox
+pywal-16-colors
+thorium-browser-bin
+tty-clock
