@@ -31,6 +31,14 @@ require("lazy").setup({
   { import = "plugins" },
 }, lazy_config)
 
+
+local ft = require('Comment.ft')
+ft.set('rasi', '/* %s */')
+
+-- local pywal = require('pywal')
+-- pywal.setup()
+
+
 -- load theme
 dofile(vim.g.base46_cache .. "defaults")
 dofile(vim.g.base46_cache .. "statusline")

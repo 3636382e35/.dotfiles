@@ -15,6 +15,7 @@ map("i", "jk", "<ESC>", { desc = "Escape insert mode" })
 
 -- comment lines 
 map("n", "gcc", "<leader>/", { desc = "Comment on line" })
+map("n", "gcc", "<cmd>//", { desc = "Comment on line" })
 map("v", "gc", "<leader>/", { desc = "Comment on visual selection" })
 
 

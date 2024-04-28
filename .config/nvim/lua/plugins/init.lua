@@ -137,7 +137,32 @@ return {
       lazy = false,
     },
 
+    {
+      "neovim/nvim-lspconfig",
+      config = function()
+        require("nvchad.configs.lspconfig").defaults()
+        require "configs.lspconfig"
+      end,
+    },
 
+    {
+      "williamboman/mason.nvim",
+      opts = {
+        ensure_installed = {
+          "lua-language-server", "stylua",
+          "html-lsp", "css-lsp" , "prettier",
+          "python-lsp-server",
+        },
+      },
+    },
+
+    {
+      'AlphaTechnolog/pywal.nvim',
+      as = 'pywal',
+      opts = {
+        transparent = true
+      }
+    },
 
 
 

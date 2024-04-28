@@ -23,17 +23,10 @@
 # is used in the bar {} block below.
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-#font pango: Noto Sans Regular 8 
-#font pango: 0xProto Nerd Font Regular 8
-font pango: MartianMono NFM Regular 8
+font pango: Noto Sans Regular 10
 
 # set the mod key to the winkey:
-
-#window key
 set $mod Mod4
-set $alt Mod1
-#alt 
-#set $mod Mod1
 
 #####################
 # workspace layout: #
@@ -55,25 +48,17 @@ workspace_layout default
 ##############################
 
 #border indicator on windows:
-
-#new_window pixel 1
-new_window pixel 2 
+new_window pixel 2
 
 # thin borders
 # hide_edge_borders both
 
 # Set inner/outer gaps
-#6 3
-#3 3
-#5 2
-# gaps inner 3
-# gaps outer 7
+# gaps inner 6
+# gaps outer 3
 
-gaps inner 6
-gaps outer 3
-
-# gaps inner 15
-# gaps outer 7
+gaps inner 12
+gaps outer 6
 
 # show window title bars (not officially supported with i3gaps)
 #default_border normal
@@ -87,9 +72,6 @@ floating_modifier $mod
 # switch/iterate between workspaces
 bindsym $mod+Tab workspace next
 bindsym $mod+Shift+Tab workspace prev
-
-
-#bindsym $mod+n exec --no-startup-id flash_window
 
 # switch to workspace
 bindcode $mod+10    workspace  $ws1
@@ -191,27 +173,17 @@ bindcode $mod+Shift+90 	 move container to workspace  $ws10
 ######################################
 # keybindings for different actions: #
 ######################################
-# bindsym X exec subl --role floatingsubl 
-# for_window [class="^subl$" role="^floatingsubl$"] floating enable
-
-# make subl floating window when executed
-
-# bindsym $mod+Shift+e exec subl --role floatingsubl 
-# for_window [class="^subl$" role="^floatingsubl$"] floating enable
-
-
 
 # start a terminal
-#bindsym $mod+Return exec --no-startup-id xfce4-terminal
 bindsym $mod+Return exec --no-startup-id alacritty 
 
 # kill focused window
 bindsym $mod+q kill
 
 # exit-menu
-#bindsym $mod+l exec --no-startup-id ~/.config/i3/scripts/powermenu
-
-# Lock the system
+# bindsym $mod+l exec --no-startup-id ~/.config/i3/scripts/powermenu
+bindsym $mod+l exec --no-startup-id ~/.config/polybar/hack/scripts/powermenu.sh
+# Lock the sytem
 # lock with a picture:
 #bindsym $mod+l exec --no-startup-id i3lock -i  ~/.config/i3/i3-lock-screen.png -p default|win -t
 # lock by blurring the screen:
@@ -224,8 +196,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # keybinding in fancy rofi (automated):
-#bindsym F1 exec --no-startup-id ~/.config/i3/scripts/keyhint-2
-bindsym F1 exec --no-startup-id flameshot gui 
+bindsym F1 exec --no-startup-id ~/.config/i3/scripts/keyhint-2
 # alternative
 # keybinding list in editor:
 # bindsym $mod+F1 exec --no-startup-id xed ~/.config/i3/keybindings
@@ -239,7 +210,6 @@ bindsym XF86MonBrightnessDown exec --no-startup-id ~/.config/i3/scripts/volume_b
 
 # change focus
 bindsym $mod+j focus left
-bindsym $alt+Tab focus left
 bindsym $mod+k focus down
 bindsym $mod+b focus up
 bindsym $mod+o focus right
@@ -320,10 +290,9 @@ bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 bindsym $mod+p exec --no-startup-id /usr/local/bin/switch-audio-port
 
 ## App shortcuts
-#bindsym $mod+w exec --no-startup-id /usr/bin/brave
 bindsym $mod+w exec --no-startup-id /usr/bin/firefox
 bindsym $mod+n exec --no-startup-id /usr/bin/thunar
-bindsym Print exec --no-startup-id scrot ~/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/Pictures/Screenshots/$(date +"%Y-%m-%d-%T")-screenshot.png"
+bindsym Print exec --no-startup-id scrot ~/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/$(date +"%Y-%m-%d-%T")-screenshot.png"
 
 # Power Profiles menu switcher (rofi)
 bindsym $mod+Shift+p exec --no-startup-id ~/.config/i3/scripts/power-profiles
@@ -334,11 +303,6 @@ bindsym $mod+Shift+p exec --no-startup-id ~/.config/i3/scripts/power-profiles
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-# set $ws1 "1:"
-# set $ws2 "2:"
-# set $ws3 "3:"
-# set $ws4 "4:"
-# set $ws5 "5:"
 set $ws1 "1"
 set $ws2 "2"
 set $ws3 "3"
@@ -360,21 +324,18 @@ set $ws10 "10"
 #workspace $ws5 output HDMI-0
 
 # bind program to workspace and focus to them on startup:
-
-#assign [class="Xfce4-terminal"] $ws1
-#assign [class="(?i)firefox"] $ws2
-#assign [class="Thunar"] $ws3
-#assign [class="thunderbird"] $ws4
-#assign [class="TelegramDesktop"] $ws5
-# assign [class="floatingsubl"] $ws6
+# assign [class="Xfce4-terminal"] $ws1
+# assign [class="(?i)firefox"] $ws2
+# assign [class="Thunar"] $ws3
+# assign [class="thunderbird"] $ws4
+# assign [class="TelegramDesktop"] $ws5
 
 # automatic set focus new window if it opens on another workspace than the current:
-
-#for_window [class=Xfce4-terminal] focus
-#for_window [class=(?i)firefox] focus
-#for_window [class=Thunar] focus
-#for_window [class=Thunderbird] focus
-#for_window [class=TelegramDesktop] focus
+# for_window [class=Xfce4-terminal] focus
+# for_window [class=(?i)firefox] focus
+# for_window [class=Thunar] focus
+# for_window [class=Thunderbird] focus
+# for_window [class=TelegramDesktop] focus
 
 ##############
 # compositor #
@@ -400,13 +361,10 @@ set $ws10 "10"
 # For modifications, it can be copied to ~/.config/picom/picom.conf or ~/.config/picom.conf
 # install picom package (yay -S picom)
 # start using default config 
-#exec_always --no-startup-id picom 
-
-#remapping keys
-
-# NOTE: uncomment this shit to enable picom
+#exec_always --no-startup-id picom -b
+#
 # for custom config:
-exec_always --no-startup-id picom --config  ~/.config/picom/picom.conf
+exec_always --no-startup-id picom --config  ~/.dotfiles/.config/picom/picom.conf
 
 #############################################
 # autostart applications/services on login: #
@@ -432,9 +390,6 @@ exec --no-startup-id dex --autostart --environment i3
 # configure multiple keyboard layouts and hotkey to switch (Alt+CAPSLOCK in this example)
 #exec --no-startup-id setxkbmap -layout 'us,sk' -variant altgr-intl,qwerty -option 'grp:alt_caps_toggle'
 
-# configure single keyboard layout
-#exec --no-startup-id setxkbmap -layout us -variant alt_x 
-
 # start conky:
 #exec_always --no-startup-id conky
 
@@ -444,11 +399,9 @@ exec --no-startup-id ~/.screenlayout/monitor.sh
 
 # set wallpaper
 # exec --no-startup-id sleep 2 && nitrogen --restore
-exec --no-startup-id sleep 1 && feh --bg-fill ~/.dotfiles/wallpapers/inanis.jpg
-# exec_always --no-startup-id sleep 1 && feh --bg-scale $HOME/.dotfiles/wallpaper/inanis.jpg
 
-# exec --no-startup-id  wal -q -i ~/.config/wallpapers/inanis.png
-#exec_always --no-startup-id wal -q -i ~/.dotfiles/wallpaper/inanis.jpg 
+# exec --no-startup-id sleep 1 && feh --bg-fill /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png
+exec --no-startup-id sleep 1 && feh --bg-fill ~/.dotfiles/images/kohakunushi.png
 # set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
 
@@ -464,7 +417,6 @@ exec --no-startup-id xset s 480 dpms 600 600 600
 # https://www.jwz.org/xscreensaver
 #exec --no-startup-id xscreensaver --no-splash
 
-#  TODO: configure dunst
 # Desktop notifications
 # dunst config used ~/.config/dunst/dunstrc
 # set alternative config if needed:
@@ -478,11 +430,11 @@ exec --no-startup-id /usr/bin/dunst
 # autotiling script
 # https://github.com/nwg-piotr/autotiling
 # `yay -S autotiling ;) (it is in AUR)
-exec_always --no-startup-id autotiling
+#exec_always --no-startup-id autotiling
 
 # Autostart apps as you like
 #exec --no-startup-id sleep 2 && xfce4-terminal
-#exec --no-startup-id sleep 7 && firefox https://github.com/endeavouros-team/endeavouros-i3wm-setup/blob/main/force-knowledge.md
+# exec --no-startup-id sleep 7 && firefox https://github.com/endeavouros-team/endeavouros-i3wm-setup/blob/main/force-knowledge.md
 #exec --no-startup-id sleep 3 && thunar
 
 ###############
@@ -517,7 +469,6 @@ for_window [class="Blueberry.py" instance="blueberry.py"] floating enable
 for_window [class="Bluetooth-sendto" instance="bluetooth-sendto"] floating enable
 for_window [class="Pamac-manager"] floating enable
 for_window [window_role="About"] floating enable
-for_window [class="Mechvibes" instance="mechvibes"] floating enable
 
 # set border of floating window
 for_window [class="urxvt"] border pixel 1
@@ -528,6 +479,7 @@ for_window [class="urxvt"] border pixel 1
 
 # set position of floating window
 #for_window [class=".*"] move position center
+
 ######################################
 # color settings for bar and windows #
 ######################################
@@ -544,21 +496,17 @@ set $darkgrey		#383c4a
 set $grey		#b0b5bd
 set $mediumgrey		#8b8b8b
 set $yellowbrown	#e1b700
-set $rose   #c75f84
-# set $ina   #0a090b
-#set $ina   #4D6070
-set $ina   #000000
-set $ina2   #6f2138
-set $rose2   #ff78a8
-set $pb #d81b60
+set $wal #0c0b0d
+set $wal2 #eec885
+set $wal3 #be7e23
+set $wal_inacive_cli #6F522C
 
 # define colors for windows:
-#class		        	    border		  bground		  text		indicator	    child_border
-#client.focused		    	$lightblue	$darkblue	  $white	$mediumgrey 	$mediumgrey
-client.focused		    	$pb         $darkblue	  $white	$rose	        $rose
-client.unfocused	    	$darkblue	  $darkblue	  $grey		$darkgrey	    $darkgrey
-client.focused_inactive	$darkblue	  $darkblue	  $grey		$black		    $black
-client.urgent		    	  $urgentred	$urgentred	$white	$yellowbrown	$yellowbrown
+#class		        	border		bground		text		indicator	child_border
+client.focused		    	$wal2	$darkblue	$white		$wal2	$wal2
+client.unfocused	    	$wal_inacive_cli	$darkblue	$grey		$darkgrey	$wal_inacive_cli
+client.focused_inactive		$wal_inacive_cli	$darkblue	$grey		$black		$wal_inacive_cli
+client.urgent		    	$urgentred	$urgentred	$white		$yellowbrown	$yellowbrown
 
 ############################################
 # bar settings (input comes from i3blocks) #
@@ -567,53 +515,83 @@ client.urgent		    	  $urgentred	$urgentred	$white	$yellowbrown	$yellowbrown
 # Start i3bar to display a workspace bar
 # (plus the system information i3status finds out, if available)
 
-# i3 bar s
-# bar {
+# bumblebee
 
-# 		# font pango: Noto Sans Regular 8 
-#     font pango: Fragment Mono Regular 9
-#     # font pango: MartianMono NFM Regular 9
-# 		status_command i3blocks -c ~/.config/i3/i3blocks.conf
-#     	#position bottom
-#     	i3bar_command i3bar 
+bar {
+		# font pango: Iosevka Nerd Font Regular 8
+		# font pango: ASM-Regular 8
+    font pango: Terminess Nerd Font Bold 10
+		# status_command i3blocks -c ~/.config/i3/i3blocks.conf
+      status_command bumblebee-status -m cmus spacer date time \
+       disk pasink brightness battery spacer \
+        -p root.path=/ time.format="%r" date.format="%A, %b %d %Y" \
+        cmus.format=" {file2} " -t wal-powerline
+      	position top 
+    	# i3bar_command i3bar --transparency
+# it could be that you have no primary display set: set one (xrandr --output <output> --primary)
+# reference: https://i3wm.org/docs/userguide.html#_tray_output
+		    tray_output primary
+		    tray_padding 1
+
+# When strip_workspace_numbers is set to yes,
+# any workspace that has a name of the form
+# “[n][:][NAME]” will display only the name.
+strip_workspace_numbers yes
+##strip_workspace_name no
+
+		    colors {
+		    separator          $purple
+		    # background         $darkgrey
+		    background         $wal
+		    statusline         $white
+#                          		border 		        bg		txt		indicator
+		focused_workspace	$wal2	   	$wal2		$wal	$purple
+		active_workspace	$lightblue      	$mediumgrey	$darkgrey	$purple
+		inactive_workspace	$wal  	$wal	$wal2		$purple
+		urgent_workspace	$urgentred	    	$urgentred	$white		$purple
+	}
+}
+
+# bar {
+# 		# font pango: Iosevka Nerd Font Regular 8
+# 		# font pango: ASM-Regular 8
+#     font pango: Terminess Nerd Font Bold 10
+# 		# status_command i3blocks -c ~/.config/i3/i3blocks.conf
+#       status_command bumblebee-status -m cmus spacer date time \
+#        disk pasink brightness battery \
+#         -p root.path=/ time.format="%r" date.format="%A, %b %d %Y" \
+#         cmus.format=" {file2} " -t wal-powerline
+
+#       	position bottom 
+#     	# i3bar_command i3bar --transparency
 # # it could be that you have no primary display set: set one (xrandr --output <output> --primary)
 # # reference: https://i3wm.org/docs/userguide.html#_tray_output
-# 		    #tray_output primary
-# 		    tray_padding 0
-#         position top 
+# 		    tray_output primary
+# 		    tray_padding 1
 
-#   # When strip_workspace_numbers is set to yes,
-#   # any workspace that has a name of the form
-#   # “[n][:][NAME]” will display only the name.
-#   ##strip_workspace_numbers yes
-#   ##strip_workspace_name no
+# # When strip_workspace_numbers is set to yes,
+# # any workspace that has a name of the form
+# # “[n][:][NAME]” will display only the name.
+# strip_workspace_numbers yes
+# ##strip_workspace_name no
 
 # 		    colors {
 # 		    separator          $purple
-# 		    #background         $darkgrey
-# 		    background         $ina
-#         statusline         $white
-
+# 		    # background         $darkgrey
+# 		    background         $wal
+# 		    statusline         $white
 # #                          		border 		        bg		txt		indicator
-# 		    #focused_workspace	  $mediumgrey	   	$grey		$darkgrey	$purple
-# 		    focused_workspace	    $ina	   	$white		$ina	$purple
-# 		    active_workspace	    $lightblue      	$mediumgrey	$darkgrey	$purple
-#         inactive_workspace	  $ina   		$ina	$grey		$purple 
-#         urgent_workspace	    $urgentred	    	$urgentred	$white		$purple
+# 		focused_workspace	$wal2	   	$wal2		$darkgrey	$purple
+# 		active_workspace	$lightblue      	$mediumgrey	$darkgrey	$purple
+# 		inactive_workspace	$wal_inacive_cli  	$wal_inacive_cli	$grey		$purple
+# 		urgent_workspace	$urgentred	    	$urgentred	$white		$purple
 # 	}
 # }
 
-#for thunar file manager
+# POLYBAR
+# exec --no-startup-id ~/.dotfiles/.config/polybar/launch.sh --cuts
 
-for_window [class="Thunar"] resize set 640 480 
-for_window [class="Mechvibes"] resize set 640 480
-#to change size of Thunar file manager, found by xprop
 
-for_window [window_role="(?i)GtkFileChooserDialog"] resize set 640 480 
-#to set size of file choose dialog
-
-for_window [class=".*"] resize set 640 480 
-#to change size of floating windows
 
 # you can add different bars for multidisplay setups on each display:
 # set output HDMI-0 to the display you want the bar, --transparency can be set.
@@ -627,17 +605,17 @@ for_window [class=".*"] resize set 640 480
 #	i3bar_command i3bar --transparency
 #	output HDMI-0
 #	position bottom
-
+#
 # When strip_workspace_numbers is set to yes,
 # any workspace that has a name of the form
 # “[n][:][NAME]” will display only the name.
-##strip_workspace_numbers yes
+#strip_workspace_numbers yes
 ##strip_workspace_name no
-
-#colors {
+#
+#	colors {
 #		separator          $purple
 #		background         $darkbluetrans
-#         statusline         $white
+#        	statusline         $white
 #					border		bg		txt		indicator
 #		focused_workspace	$lighterblue	$lighterblue	$darkblue	$purple
 #		active_workspace	$lightdblue	$lightdblue	$darkblue	$purple
@@ -652,25 +630,18 @@ for_window [class=".*"] resize set 640 480
 
 ## rofi bindings fancy application menu ($mod+d /F9 optional disabled)
 
-set $theme "cuts" 
-#set $theme "forest" 
-#set $theme "hack" 
-
-#polybar launch script
-exec --no-startup-id ~/.config/polybar/cuts/scripts/pywal.sh ~/.dotfiles/wallpapers/inanis.jpg
-# exec --no-startup-id ~/.config/polybar/launch.sh --cuts
-
 # bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun \
-# -config ~/.config/rofi/rofidmenu.rasi
+		# -config ~/.config/rofi/rofidmenu.rasi
+
 bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun \
 		-config ~/.config/polybar/hack/scripts/rofi/launcher.rasi
-bindsym $mod+l exec --no-startup-id ~/.config/polybar/hack/scripts/powermenu.sh 
-# bindsym F9 exec --no-startup-id rofi -modi drun -show drun \
-#		-config ~/.config/rofi/rofidmenu.rasi
+
+#bindsym F9 exec --no-startup-id rofi -modi drun -show drun \#		-config ~/.config/rofi/rofidmenu.rasi
 
 ## rofi bindings for window menu ($mod+t /F10 optional disabled)
+
 bindsym $mod+t exec --no-startup-id rofi -show window \
--config ~/.config/rofi/rofidmenu.rasi
+		-config ~/.config/rofi/rofidmenu.rasi
 
 #bindsym F10 exec --no-startup-id rofi -show window \
 #		-config ~/.config/rofi/rofidmenu.rasi
@@ -678,65 +649,9 @@ bindsym $mod+t exec --no-startup-id rofi -show window \
 ## rofi bindings to manage clipboard (install rofi-greenclip from the AUR)
 
 #exec --no-startup-id greenclip daemon>/dev/null
-bindsym $mod+c exec --no-startup-id rofi -modi "clipboard:greenclip print" -show clipboard \
+#bindsym $mod+c exec --no-startup-id rofi -modi "clipboard:greenclip print" -show clipboard \
 #		-config ~/.config/rofi/rofidmenu.rasi
 
+# exec --no-startup-id timedatectl set-local-rtc 1 --adjust-system-clock
 
-exec --no-startup-id wal -q -i ~/.dotfiles/wallpaper/inanis.jpg
-exec --no-startup-id timedatectl set-local-rtc 1 --adjust-system-clock
-# exec_always --no-startup-id flashfocus
-
-
-# NOTE:  for bumblebee-status
-
-bar {
-  font pango:Noto Sans Mono Regular 8
-# font pango:Jetbrains Mono Nerd Font Regular 9
-# font pango:Inconsolata 8
-# font pango: Iosevka Nerd Font Regular 9
-
-    position top 
-    tray_output primary 
-
-#   status_command bumblebee-status -m aur-update cpu \
-# 	memory date time pasource pasink battery \
-# 	-p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" \
-# 	-t wal-powerline
-
-  # for wal-powerline theme
-
-    status_command bumblebee-status -m spacer date time \
-    spacer cmus spacer disk spacer spacer pasink spacer brightness spacer pomodoro spacer battery spacer \
-    -p root.path=/ time.format="%r" date.format="%A, %b %d %Y" \
-    cmus.format=" {file2} " -t ina-powerline 
-
-# for nord theme
-
-# status_command bumblebee-status -m spacer spacer cmus cpu \
-#      date time pasource pasink brightness battery bluetooth2 \
-#     -p root.path=/ time.format="%r" date.format="%a, %b %d %Y" \
-#     cmus.format=" {file2} " -t nord-powerline
-
-    # -t wal-powerline 
-#   -t moonlight-powerline 
-#   -t iceberg-contrast
-
-    colors {
-#       background         $darkgrey
-        separator          $purple
-        background         $ina
-        statusline         $white
-
-#                             border 		      bg		        txt		        indicator
-#       focused_workspace	    $mediumgrey	   	$grey		      $darkgrey	    $purple
-        focused_workspace	    $ina	   	      $ina2		      $white	        $purple
-        active_workspace	    $lightblue      $mediumgrey	  $darkgrey	    $purple
-        inactive_workspace	  $ina   		      $ina	        $grey		      $purple 
-        urgent_workspace	    $urgentred	    $urgentred	  $white		    $purple
-    }
-
-}
-
-exec --no-startup-id xrandr --newmode "1920x1080_60.00" 173.00 1920 2048 2248 2576 1080 1083 1088 1120 -hsync +vsync
-exec --no-startup-id xrandr --addmode LVDS-1 "1920x1080_60.00"
 
