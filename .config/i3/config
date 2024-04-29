@@ -521,11 +521,12 @@ bar {
 		# font pango: Iosevka Nerd Font Regular 8
 		# font pango: ASM-Regular 8
     font pango: Terminess Nerd Font Bold 10
+    # font pango: JetBrainsMono Nerd Font Regular 8
 		# status_command i3blocks -c ~/.config/i3/i3blocks.conf
       status_command bumblebee-status -m cmus spacer date time \
        disk pasink brightness battery spacer \
         -p root.path=/ time.format="%r" date.format="%A, %b %d %Y" \
-        cmus.format=" {file2} " -t wal-powerline
+        cmus.format=" {file2} " -t gruvbox-powerline
       	position top 
     	# i3bar_command i3bar --transparency
 # it could be that you have no primary display set: set one (xrandr --output <output> --primary)
@@ -543,6 +544,7 @@ strip_workspace_numbers yes
 		    separator          $purple
 		    # background         $darkgrey
 		    background         $wal
+		    # background         $black
 		    statusline         $white
 #                          		border 		        bg		txt		indicator
 		focused_workspace	$wal2	   	$wal2		$wal	$purple

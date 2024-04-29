@@ -119,7 +119,7 @@ return {
           test = { "Identifier", "#FF00FF" }
         },
         search = {
-          command = "r  g",
+          command = "rg",
           args = {
             "--color=never",
             "--no-heading",
@@ -164,6 +164,22 @@ return {
       }
     },
 
+    {
+      'habamax/vim-godot',
+      event = 'vimEnter',
+    },
+
+    {
+      'NvChad/nvim-colorizer.lua',
+      lazy = false,
+    },
 
 
-  }
+    {
+      'nvim-telescope/telescope.nvim', tag = '0.1.6',
+        dependencies = { 'nvim-lua/plenary.nvim' },
+        lazy = false,
+    },
+
+
+}

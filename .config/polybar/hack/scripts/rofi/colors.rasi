@@ -2,17 +2,18 @@
 /*
 * {
   al:    #00000000;
-  bg:    #0a090bFF;
-  ac:    #4D6070FF;
-  se:    #4D607026;
-  fg:    #cad3d8FF;
+  bg:    #0c0b0dFF;
+  ac:    #6F522CFF;
+  se:    #6F522C26;
+  fg:    #eec885FF;
 }
 */
 
 * {
   al:    #00000000;
-  bg:    #0a090bFF;
+  bg:    #0c0b0dFF;
   ac:    #eec885FF;
-  se:    #eec88526;
+  se:    #6F522C26;
   fg:    #eec885FF;
 }
+
