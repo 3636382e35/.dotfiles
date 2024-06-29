@@ -8,10 +8,10 @@ shell = "zsh"
 # normal = { family = "Fragment Mono", style = "Regular" }  
 # normal = { family = "KlartextMono", style = "Medium" }  
 # size = 8
-normal = { family = "JetBrainsMono Nerd Font Mono", style = "Regular" }  
-size = 8
-# normal = { family = "ASM-Regular", style = "Bold" }  
+# normal = { family = "JetBrainsMono Nerd Font Mono", style = "Regular" }  
 # size = 8
+normal = { family = "ASM-Regular", style = "Bold" }  
+size = 8
 # normal = { family = "0xProto Nerd Font", style = "Regular" }  
 # size = 8
 # normal = { family = "MartianMono NFM", style = "Condensed Regular" }  
@@ -31,7 +31,6 @@ size = 8
 # glyph_offset = { x = 0, y = 3 }
   
 # size = 9.5
-
 [window]
   # opacity =  0.95 #default
   opacity =  0.90
