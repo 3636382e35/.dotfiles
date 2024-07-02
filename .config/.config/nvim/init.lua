@@ -3,6 +3,7 @@ vim.g.mapleader = " "
 vim.opt.relativenumber = true
 vim.opt["tabstop"] = 4
 vim.opt["shiftwidth"] = 4
+vim.opt["expandtab"] = true
 
 -- NOTE: this snippet saves the last edit position
 vim.cmd([[ autocmd BufReadPost * if @% !~# '\.git[\/\\]COMMIT_EDITMSG$' && line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif ]])
